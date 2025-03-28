@@ -1,0 +1,17 @@
+
+#big {
+    display:flex;
+    flex-direction: row;
+    padding:1%;
+}
+
+.void {
+    display:none;
+}
+
+.box {
+    padding: 1%;
+    border-radius: 1px;
+    border-style:inset;
+    border-color:grey;
+}
