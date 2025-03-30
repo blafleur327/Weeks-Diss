@@ -100,6 +100,7 @@ let G;
 
 //Place new Examples Here.
 
+new VideoExample(1.1,`New video, who dis?`,'Videos');
 
 //
 
