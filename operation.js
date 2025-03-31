@@ -98,7 +98,7 @@ function DropDown (array = collection) {
 
 let G;
 
-//Place new Examples Here.
+//Place new Examples Here. Links for each video must be 'Videos/....filename'
 
 new VideoExample(1.1,`New video, who dis?`,'Videos/Video Example 1.1.mp4');
 
