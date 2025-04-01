@@ -173,8 +173,7 @@ new VideoExample(4.7,``,'Videos/Video Example 4.7.mp4');
 new VideoExample(4.8,``,'Videos/Video Example 4.8.mp4');
 new VideoExample(4.9,``,'Videos/Video Example 4.9.mp4');
 
-
-//
+//Site is live at...https://blafleur327.github.io/Weeks-Diss/
 
 document.addEventListener('DOMContentLoaded',() => {
     console.log('WOO');
