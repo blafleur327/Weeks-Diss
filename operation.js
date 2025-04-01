@@ -163,11 +163,11 @@ new VideoExample('3.31',`Expected inputs in the microwave torture scene from Met
 //Chapter 4
 
 new VideoExample('4.1',`No engagement with Jetstream Sam in Metal Gear Rising: Revengeance. (Warning: Flashing lights, blood, and violence)`,'Videos/Video Example 4.1.mp4');
-new VideoExample('4.1a',``,'Audio/Audio Example 4.1.mp4);
+new VideoExample('4.1a',`Simple rhythmic stereo alternation panning example (for Figure 4.1).`,'Audio/Audio Example 4.1.mp4');
 new VideoExample('4.2',`Engaging combat with Jetstream Sam in Metal Gear Rising: Revengeance. (Warning: Flashing lights, blood, and violence)`,'Videos/Video Example 4.2.mp4');
-new VideoExample('4.2a',``,'Audio/Audio Example 4.2.mp4);
+new VideoExample('4.2a',`Simple panning sweep example (for Figure 4.2).`,'Audio/Audio Example 4.2.mp4');
 new VideoExample('4.3',`Rhythmic stereo panning in Flashman.EXE’s boss fight from Mega Man Battle Network 3 Blue Version. (Advice: Wear headphones. Warning: Flashing lights)`,'Videos/Video Example 4.3.mp4');
-new VideoExample('4.3a',``,'Audio/Audio Example 4.3.mp4);
+new VideoExample('4.3a',`Simple motivic panning example (for Figure 4.3).`,'Audio/Audio Example 4.3.mp4');
 new VideoExample('4.4',`Diegetic disruptive laughing location in Metal Gear Solid 4: Guns of the Patriots. (Advice: Wear headphones. Warning: Blood, violence, and images that can cause motion sickness)`,'Videos/Video Example 4.4.mp4');
 new VideoExample('4.5',`Overabundance of lock-on triggers in Ace Combat 7: Skies Unknown. (Warning: Flashing lights and images that can cause motion sickness)`,'Videos/Video Example 4.5.mp4');
 new VideoExample('4.6',`Musical texture muffling important audio triggers in Ace Combat 7: Skies Unknown. (Warning: Flashing lights and images that can cause motion sickness)`,'Videos/Video Example 4.6.mp4');
