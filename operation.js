@@ -125,7 +125,6 @@ new VideoExample('2.12',`Time change in Okami`,'Videos/Video Example 2.12.mp4');
 new VideoExample('2.13',`Music state change in Banjo-Kazooie`,'Videos/Video Example 2.13.mp4');
 new VideoExample('2.14',`Last lap’s change in music in Mario Kart 8 Deluxe`,'Videos/Video Example 2.14.mp4');
 new VideoExample('2.15',`Flourish attack from Monsoon in Metal Gear Rising: Revengeance`,'Videos/Video Example 2.15.mp4');
-new VideoExample('2.10',``,'Videos/Video Example 2.10.mp4');
 
 //Chapter 3
 
