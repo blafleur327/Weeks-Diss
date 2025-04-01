@@ -172,6 +172,32 @@ new VideoExample('4.6',`Musical texture muffling important audio triggers in Ace
 new VideoExample('4.7',`Misrepresented intensity in the final boss of Catherine: Full Body`,'Videos/Video Example 4.7.mp4');
 new VideoExample('4.8',`Tricking to rhythmic dissonance and music changes in Jet Set Radio Future`,'Videos/Video Example 4.8.mp4');
 new VideoExample('4.9',`Pulse Transforming Tempo Modulation in Bebop’s boss fight in Teenage Mutant Ninja Turtles: Shredder’s Revenge`,'Videos/Video Example 4.9.mp4');
+new VideoExample('4.10',``,'Videos/Video Example 4.10.mp4');
+new VideoExample('4.11',``,'Videos/Video Example 4.11.mp4');
+new VideoExample('4.12',``,'Videos/Video Example 4.12.mp4');
+new VideoExample('4.13',``,'Videos/Video Example 4.13.mp4');
+new VideoExample('4.14',``,'Videos/Video Example 4.14.mp4');
+new VideoExample('4.15',``,'Videos/Video Example 4.15.mp4');
+new VideoExample('4.16',``,'Videos/Video Example 4.16.mp4');
+new VideoExample('4.17',``,'Videos/Video Example 4.17.mp4');
+new VideoExample('4.18',``,'Videos/Video Example 4.18.mp4');
+new VideoExample('4.19',``,'Videos/Video Example 4.19.mp4');
+new VideoExample('4.20',``,'Videos/Video Example 4.20.mp4');
+new VideoExample('4.21',``,'Videos/Video Example 4.21.mp4');
+new VideoExample('4.22',``,'Videos/Video Example 4.22.mp4');
+new VideoExample('4.23',``,'Videos/Video Example 4.23.mp4');
+
+//Chapter 5
+
+new VideoExample('5.1',``,'Videos/Video Example 5.1.mp4');
+new VideoExample('5.2',``,'Videos/Video Example 5.2.mp4');
+new VideoExample('5.3',``,'Videos/Video Example 5.3.mp4');
+new VideoExample('5.4',``,'Videos/Video Example 5.4.mp4');
+new VideoExample('5.5',``,'Videos/Video Example 5.5.mp4');
+new VideoExample('5.6',``,'Videos/Video Example 5.6.mp4');
+new VideoExample('5.7',``,'Videos/Video Example 5.7.mp4');
+new VideoExample('5.8',``,'Videos/Video Example 5.8.mp4');
+new VideoExample('5.9',``,'Videos/Video Example 5.9.mp4');
 
 /*Site is live at...https://blafleur327.github.io/Weeks-Diss/   
 */
