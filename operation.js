@@ -2,14 +2,14 @@ let collection = {};
 
 /**
  * Builds a new video example.
- * @param {string} number Chapter.example '1.1'
+ * @param {string} example Chapter.example '1.1' optionally '1.1a'
  * @param {string} description 
  * @param {File} video 
  * @param {HTMLElement} parent 
  */
-function VideoExample (number,description,video) {
-    this.chapter = String(number).split('.')[0];
-    this.example = String(number).split('.')[1];
+function VideoExample (example,description,video) {
+    this.chapter = String(example).split('.')[0];
+    this.example = String(example).split('.')[1];
     this.description = description;
     this.video = video;
     if (collection[this.chapter] == undefined) {
