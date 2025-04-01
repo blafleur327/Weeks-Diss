@@ -101,6 +101,14 @@ let G;
 //Place new Examples Here. Links for each video must be 'Videos/....filename'
 
 new VideoExample(1.1,`New video, who dis?`,'Videos/Video Example 1.1.mp4');
+new VideoExample(1.2,'','Videos/Video Example 1.2.mp4');
+new VideoExample(1.2,'','Videos/Video Example 1.3.mp4');
+new VideoExample(1.2,'','Videos/Video Example 1.4.mp4');
+new VideoExample(1.2,'','Videos/Video Example 1.5.mp4');
+new VideoExample(1.2,'','Videos/Video Example 2.1.mp4');
+new VideoExample(1.2,'','Videos/Video Example 2.3.mp4');
+new VideoExample(1.2,'','Videos/Video Example 2.4.mp4');
+
 
 //
 
