@@ -30,12 +30,12 @@ function DropDown (array = collection) {
         l1.appendChild(sel);
     }
     /**
-     * Traverses collection object via a float.
-     * @param {float} value chapter . example
+     * Traverses collection object via a string.
+     * @param {string} value chapter . example
      * @returns Video Example object
      */
     this.traverse = (value) => {
-        let inds = String(value).split('.');
+        let inds = String(value).split('.');    //Cast as string just in case
         if (inds.length == 2) {
             return collection[inds[0]][inds[1]];
         }
