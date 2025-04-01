@@ -150,7 +150,7 @@ new VideoExample('3.18',`Character Select and Continue timers in Marvel vs. Capc
 new VideoExample('3.19',`Input and duration of the ladder scene from Metal Gear Solid 3: Snake Eater`,'Videos/Video Example 3.19.mp4');
 new VideoExample('3.20',`Supportive ally NPC voice triggers in Corneria from Star Fox 64`,'Videos/Video Example 3.20.mp4');
 new VideoExample('3.21',`Various supportive multiplayer audio triggers from Genshin Impact`,'Videos/Video Example 3.21.mp4');
-new VideoExample'3.22',`The player’s control over music and informative audio triggers in VA11 HALL-A`,'Videos/Video Example 3.22.mp4');
+new VideoExample('3.22',`The player’s control over music and informative audio triggers in VA11 HALL-A`,'Videos/Video Example 3.22.mp4');
 new VideoExample('3.23',`Phase change with a new riff in Monsoon’s boss fight from Metal Gear Rising: Revengeance`,'Videos/Video Example 3.23.mp4');
 new VideoExample('3.24',`Phase change with added vocals in Monsoon’s boss fight from Metal Gear Rising: Revengeance`,'Videos/Video Example 3.24.mp4');
 new VideoExample('3.25',`Final attack with a concluding riff in Monsoon’s boss fight from Metal Gear Rising: Revengeance`,'Videos/Video Example 3.25.mp4');
