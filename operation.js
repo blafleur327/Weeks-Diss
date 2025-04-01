@@ -100,14 +100,78 @@ let G;
 
 //Place new Examples Here. Links for each video must be 'Videos/....filename'
 
+//Chapter 1
+
 new VideoExample(1.1,`New video, who dis?`,'Videos/Video Example 1.1.mp4');
 new VideoExample(1.2,'','Videos/Video Example 1.2.mp4');
-new VideoExample(1.2,'','Videos/Video Example 1.3.mp4');
-new VideoExample(1.2,'','Videos/Video Example 1.4.mp4');
-new VideoExample(1.2,'','Videos/Video Example 1.5.mp4');
-new VideoExample(1.2,'','Videos/Video Example 2.1.mp4');
-new VideoExample(1.2,'','Videos/Video Example 2.3.mp4');
-new VideoExample(1.2,'','Videos/Video Example 2.4.mp4');
+new VideoExample(1.3,'','Videos/Video Example 1.3.mp4');
+new VideoExample(1.4,'','Videos/Video Example 1.4.mp4');
+new VideoExample(1.5,'','Videos/Video Example 1.5.mp4');
+
+//Chapter 2
+
+new VideoExample(2.1,'','Videos/Video Example 2.1.mp4');
+new VideoExample(2.2,'','Videos/Video Example 2.2.mp4');
+new VideoExample(2.3,'','Videos/Video Example 2.3.mp4');
+new VideoExample(2.4,'','Videos/Video Example 2.4.mp4');
+new VideoExample(2.5,'','Videos/Video Example 2.5.mp4');
+new VideoExample(2.6,'','Videos/Video Example 2.6.mp4');
+new VideoExample(2.7,'','Videos/Video Example 2.7.mp4');
+new VideoExample(2.8,'','Videos/Video Example 2.8.mp4');
+new VideoExample(2.9,'','Videos/Video Example 2.9.mp4');
+new VideoExample(2.10,'','Videos/Video Example 2.10.mp4');
+new VideoExample(2.11,'','Videos/Video Example 2.11.mp4');
+new VideoExample(2.12,'','Videos/Video Example 2.12.mp4');
+new VideoExample(2.13,'','Videos/Video Example 2.13.mp4');
+new VideoExample(2.14,'','Videos/Video Example 2.14.mp4');
+new VideoExample(2.15,'','Videos/Video Example 2.15.mp4');
+new VideoExample(2.10,'','Videos/Video Example 2.10.mp4');
+
+//Chapter 3
+
+new VideoExample(3.1,'','Videos/Video Example 3.1.mp4');
+new VideoExample(3.2,'','Videos/Video Example 3.2.mp4');
+new VideoExample(3.3,'','Videos/Video Example 3.3.mp4');
+new VideoExample(3.4,'','Videos/Video Example 3.4.mp4');
+new VideoExample(3.5,'','Videos/Video Example 3.5.mp4');
+new VideoExample(3.6,'','Videos/Video Example 3.6.mp4');
+new VideoExample(3.7,'','Videos/Video Example 3.7.mp4');
+new VideoExample(3.8,'','Videos/Video Example 3.8.mp4');
+new VideoExample(3.9,'','Videos/Video Example 3.9.mp4');
+new VideoExample(3.10,'','Videos/Video Example 3.10.mp4');
+new VideoExample(3.11,'','Videos/Video Example 3.11.mp4');
+new VideoExample(3.12,'','Videos/Video Example 3.12.mp4');
+new VideoExample(3.13,'','Videos/Video Example 3.13.mp4');
+new VideoExample(3.14,'','Videos/Video Example 3.14.mp4');
+new VideoExample(3.15,'','Videos/Video Example 3.15.mp4');
+new VideoExample(3.16,'','Videos/Video Example 3.16.mp4');
+new VideoExample(3.17,'','Videos/Video Example 3.17.mp4');
+new VideoExample(3.18,'','Videos/Video Example 3.18.mp4');
+new VideoExample(3.19,'','Videos/Video Example 3.19.mp4');
+new VideoExample(3.20,'','Videos/Video Example 3.20.mp4');
+new VideoExample(3.21,'','Videos/Video Example 3.21.mp4');
+new VideoExample(3.22,'','Videos/Video Example 3.22.mp4');
+new VideoExample(3.23,'','Videos/Video Example 3.23.mp4');
+new VideoExample(3.24,'','Videos/Video Example 3.24.mp4');
+new VideoExample(3.25,'','Videos/Video Example 3.25.mp4');
+new VideoExample(3.26,'','Videos/Video Example 3.26.mp4');
+new VideoExample(3.27,'','Videos/Video Example 3.27.mp4');
+new VideoExample(3.28,'','Videos/Video Example 3.28.mp4');
+new VideoExample(3.29,'','Videos/Video Example 3.29.mp4');
+new VideoExample(3.30,'','Videos/Video Example 3.30.mp4');
+new VideoExample(3.31,'','Videos/Video Example 3.31.mp4');
+
+//Chapter 4
+
+new VideoExample(4.1,'','Videos/Video Example 4.1.mp4');
+new VideoExample(4.2,'','Videos/Video Example 4.2.mp4');
+new VideoExample(4.3,'','Videos/Video Example 4.3.mp4');
+new VideoExample(4.4,'','Videos/Video Example 4.4.mp4');
+new VideoExample(4.5,'','Videos/Video Example 4.5.mp4');
+new VideoExample(4.6,'','Videos/Video Example 4.6.mp4');
+new VideoExample(4.7,'','Videos/Video Example 4.7.mp4');
+new VideoExample(4.8,'','Videos/Video Example 4.8.mp4');
+new VideoExample(4.9,'','Videos/Video Example 4.9.mp4');
 
 
 //
